@@ -76,7 +76,21 @@ Java Web 阶段主要学习 Java 网页应用开发的基础内容，包括一�
 
 ### 企业开发框架
 
+Java 之所以能够成为主流的企业级开发语言，很大一部分原因就在于它成熟而完善的框架生态。合理使用框架，不仅能够显著提升开发效率，还能增强项目的稳定性，并有效降低后期的维护成本。因此，企业级开发框架是后端开发中不可或缺的一部分，也是面试中的重点内容，一定要认真对待、深入掌握。
 
+推荐学习资源如下：
+
+[动力节点 Spring](https://www.bilibili.com/video/BV1Ft4y1g7Fb/?spm_id_from=333.337.search-card.all.click&vd_source=87e9b301b5680ecec2487ab62d311d4a)
+
+[动力节点 SpringMVC](https://www.bilibili.com/video/BV1sC411L76f/?spm_id_from=333.337.search-card.all.click&vd_source=87e9b301b5680ecec2487ab62d311d4a)
+
+[动力节点 MyBatis](https://www.bilibili.com/video/BV1JP4y1Z73S/?spm_id_from=333.337.search-card.all.click&vd_source=87e9b301b5680ecec2487ab62d311d4a)
+
+[黑马程序员 Maven](https://www.bilibili.com/video/BV1Ah411S7ZE/?spm_id_from=333.337.search-card.all.click&vd_source=87e9b301b5680ecec2487ab62d311d4a)
+
+[Spring Boot 3](https://www.bilibili.com/video/BV1QNmZYrEp9/?spm_id_from=333.337.search-card.all.click&vd_source=87e9b301b5680ecec2487ab62d311d4a)
+
+按照顺序系统学习，结合动手实践，把基础框架理解清楚、把教程里面的项目跑通，比单纯“看过视频”重要得多。
 
 ### Spring 系列框架进阶
 
