@@ -62,7 +62,7 @@
 
 数据库是后端开发的基石，一定要学扎实。尤其是 SQL 语句编写能力和数据库表结构设计能力，这两个能力必须真正掌握。比如让你设计一个学生管理系统，你应该能够清晰地规划出需要哪些表，例如学生表、班级表；每张表需要哪些字段，以及字段的数据类型；表与表之间是什么关系，是一对多还是多对多。这些看似基础的问题，实际上很多同学在真正做项目时都会感到迷茫，所以一定要提前练熟练透。
 
-推荐课程：[黑马程序员数据库教学](https://www.bilibili.com/video/BV1Kr4y1i7ru/?vd_source=87e9b301b5680ecec2487ab62d311d4a)
+推荐课程：[黑马程序员数据库](https://www.bilibili.com/video/BV1Y7411K7zz/?vd_source=87e9b301b5680ecec2487ab62d311d4a)
 
 这门课程对于初学者来说已经完全够用，只要你能坚持从头到尾认真听完，并跟着动手练习，一定会有明显的提升。不要三天打鱼两天晒网，踏踏实实学完，收获绝对不会小。
 
@@ -70,7 +70,7 @@
 
 Java Web 阶段主要学习 Java 网页应用开发的基础内容，包括一点点前端基础知识、XML、JSON、Servlet、Filter、Listener、JSP、JSTL、Cookie 以及 Session 等核心内容。这一部分的意义，不是让你成为前端高手，而是为后续学习框架打好地基。因为很多框架本质上都是在这些技术之上一层层封装出来的，如果底层原理不清楚，后面学框架的时候就会很迷糊。
 
-推荐课程：[黑马程序员 JavaWeb](https://www.bilibili.com/video/BV1m84y1w7Tb/?vd_source=87e9b301b5680ecec2487ab62d311d4a)
+推荐课程：[尚硅谷 JavaWeb](https://www.bilibili.com/video/BV1Y7411K7zz/?vd_source=87e9b301b5680ecec2487ab62d311d4a)
 
 跟着课程系统学一遍，理解原理并动手练习，后续学习 Spring 等框架时会轻松很多。
 
