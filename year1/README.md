@@ -272,6 +272,7 @@ Docker 最大的价值，就是解决“在我电脑上能跑，在服务器上�
 
 * [Spring、SpringMVC](https://docs.spring.io/spring-framework/reference/6.2-SNAPSHOT/index.html)
 * [SpringBoot](https://docs.spring.io/spring-boot/3.5/index.html)
+* 等等
 
 其次，第二个核心任务就是准备面试，背八股，应付秋招。
 
